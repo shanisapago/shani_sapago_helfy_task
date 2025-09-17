@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+    margin:0;
+}
+.card{
+    height: 550px;
+    width: 500px;
+    background-color: whitesmoke;
+    padding:10px;
+    border-radius: 30px;
+    overflow-y: auto;
+    
+
+}
